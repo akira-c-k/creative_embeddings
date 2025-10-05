@@ -1,0 +1,14 @@
+# pip install --upgrade pip
+# pip install "numpy<2.0"
+# python -m pip install tensorflow-macos
+# python -m pip install tensorflow-metal
+
+pyyaml==6.0.2 
+tqdm==4.67.1
+numpy==1.26.4
+polars-lts-cpu==1.33.0
+pandas==2.3.2
+
+matplotlib==3.10.6
+
+# kaggle==1.5.16 
